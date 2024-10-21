@@ -56,7 +56,8 @@ h6{
 	font-weight: 300;
 }
 .fw_600{
-	font-weight: 600;
+	font-weight: 400;
+
 }
 a{
 	-webkit-transition: all 0.2s linear;
@@ -552,7 +553,7 @@ a.back-to-top:hover, a.back-to-top:focus{
 	font-size: 25px;
 }
 .banner_content h1 span .fw_600{
-	font-weight: 600;
+	font-weight: 400;
 }
 .cd-headline.clip .cd-words-wrapper::after{
     content: '';
